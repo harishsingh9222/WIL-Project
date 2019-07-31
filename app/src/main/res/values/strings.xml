@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Lofter App</string>
+
+    <string name="text_fname">First Name</string>
+    <string name="text_lname">Last Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_contact">Contact</string>
+    <string name="text_prop_address">Address</string>
+    <string name="text_prop_size">Property Size</string>
+    <string name="text_prop_type">Property Type</string>
+    <string name="text_prop_price">Property Price</string>
+
+    <string name="btn_txt_locate_me">Locate Me</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">HOME</string>
+    <string name="nav_profile">PROFILE</string>
+    <string name="nav_nearby">AGENTS NEARBY</string>
+    <string name="nav_loft_listing">LOFT LISTINGS</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Agents NearBy</item>
+        <item>Loft Listings</item>
+    </string-array>
+
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+</resources>
